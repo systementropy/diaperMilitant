@@ -1,0 +1,249 @@
+<main id="skrollr-body">
+       	       		<section class="main-header">
+
+       	       			<div class="container container-flex">
+       	       				<div>
+
+       	       					<p>
+       	       						<span>#KashmirBeyondCliches</span>
+       	       						<!-- <span style="margin: 0 10px; display: inline-block;">|</span> -->
+       	       						<span></span>
+
+       	       					</p>
+       	       					<h1>The Making of A ‘Diaper Militant’</h1>
+       	       					<h3>How a 14 year-old boy took up arms</h3>
+       	       					<credit class="credit-section">
+       	       						<p><span>Report:</span><span href="https://twitter.com/suhashmunshi" target="_blank">Suhas Munshi</span></p>
+       	       						<p><span>Illustration:</span><span href="https://twitter.com/AlankarVishal" target="_blank">Alankar</span></p>
+       	       						<p><span>Producer:</span><span href="https://twitter.com/sheikh_saaliq" target="_blank">Sheikh Saaliq</span></p>
+       	       						<p><span>Developer:</span><span href="https://twitter.com/systementropy" target="_blank">Saket Vatsa</span></p>
+       	       					</credit>
+
+       	       				</div>
+       	       				<div>
+       	       					<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/lead.jpg" alt="">
+       	       				</div>
+       	       			</div>
+       	       		</section>
+       	       	 	<section>
+
+       	       	 		<div class="container" style="padding: 8%">
+
+       		       	 		<p>The increasing participation of children in militancy is the most harrowing sub-plot of the unfolding crises in Kashmir.</p>
+
+       		       	 		<p>Despite several international conventions that prohibit recruitment of children in armed conflict, militant outfits are accepting child recruits and pushing them to the firing lines. Faizan Bhatt was 15 years and 3 months old when he was shot dead by security forces in May this year, a couple of months after he joined Hizbul Mujahideen. He reportedly died without firing a single bullet.</p>
+
+       		       	 		<p>While police won’t officially admit it, there are at least 10 other child militants who’re hiding somewhere in South Kashmir right now.</p>
+
+       		       	 		<p>“You thought things have gone bad? Now we have got to deal with a 14 year-old diaper militant. Should we scold him or shoot his brains out?” It was a conversation between two constables at a senior policeman’s office, which led us to him. We eventually traced his family and friends and spent time with them.</p>
+
+       		       	 		<p>The life of this ‘diaper militant’ mirrored that of Bhat in many ways. Both were very good students, both were looking forward to promising academic lives, and both loved cricket.</p>
+
+       		       	 		<p>This boy was 14 years old when he left his family. Sometime last month he turned 15. Since he’s a minor, we’ve changed names and details that could divulge his identity, and those of his family or friends. We call him Faheem. This story is based on conversations with his family and friends, most of who keep a track of encounters to find if it is Faheem who’s been holed in a house that the army is waiting to blow up. Since the day he left, this has been their one mission in life - to reach him before the security forces do.</p>
+       	       	 		</div>
+
+       	       	 	</section>
+       		        <section id="slide-1" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-1">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-1 content" >
+       					    		
+       					    		<content>
+       					    			<p>This is a village in Kulgam. Faheem lived in a mohalla that looks like this. It was untouched by protests and killings happening across rest of the valley.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem01.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-2" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-2">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-2 content" >
+       					    		
+       					    		<content>
+       					    			<p>And then one day, in an encounter near his house, four local militants along with two civilians died. Violence flaming outside had at last singed this village as well.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem02.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-3" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-3">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-3 content" >
+       					    		
+       					    		<content>
+       					    			<p>Faheem was a studious boy. Despite the chaos, he had scored 91% in his matriculation. He loved playing cricket and football. His father, a teacher, wanted him to be a doctor.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem03.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-4" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-4">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-4 content" >
+       					    		
+       					    		<content>
+       					    			<p>Violence, in a conflict area, is like the main lever of a clock. When it moves, it spins levers around it in motion as well. After that encounter in Kulgam protests also broke out in Faheem's mohalla.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem04.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-5" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-5">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-5 content" >
+       					    		
+       					    		<content>
+       					    			<p>“Faheem would often ask questions which I had no answers to,” his father said. Curfew was placed in Kulgam. Faheem couldn’t go out to study. The whole family was confined to their house.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem05.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       				<section id="slide-6" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-6">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-6 content" >
+       					    		
+       					    		<content>
+       					    			<p>After curfew was lifted, Faheem started visiting militants' funerals. “He went to the funeral of Burhan Wani and Dawood Sheikh with me,” a friend of Faheem said.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem06.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-7" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-7">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-7 content" >
+       					    		
+       					    		<content>
+       					    			<p>“We don’t know what happened to him. He began to withdraw himself from our lives,” his father said. The disciplinarian father thought it was a passing phase in Faheem’s adolescence.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem07.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-8" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-8">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-8 content" >
+       					    		
+       					    		<content>
+       					    			<p>“He had started to eat less and less. And then he stopped sleeping in his bed also. He would say that the floor was more comfortable to him,” his mother said.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem08.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-9" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-9">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-9 content" >
+       					    		
+       					    		<content>
+       					    			<p>“And then he started to get very angry at us. I began to fear him. Our boy so full of love and promise…what happened to him,” Faheem’s mother couldn’t hold back tears.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem09.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-10" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-10">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-10 content" >
+       					    		
+       					    		<div>
+       					    		content>"Then one fine day Faheem came and hugged me tightly. It looked like the old times had returned. My son was back,” Faheem’s mother said sobbing. “He was sitting in my lap again, and we together watched many movies back-to-back.”</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem10.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-11" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-11">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-11 content" >
+       					    		
+       					    		<div>
+       					    		content>“It was the last time we saw him. He said he’s going to tuition and then…just like that…left. We called him 66 times that night. He didn’t pick up. We went looking for him, house after house. He was nowhere,” his brother said.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem11.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-12" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-12">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-12 content" >
+       					    		
+       					    		<content>
+       					    			<p>“I went to police stations, offices of all the police and army officers. I pleaded them to not harm him and return him to me. I keep calling them to enquire whether they’ve found him,” Rashid says.</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem12.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+       			    <section id="slide-13" class="homeSlide homeSlideTall">
+       		        	<div class="bcg" data-anchor-target="#slide-13">
+       			        	<div class="hsContainer">
+       				    		<div class="hsContent skrollable skrollable-before" data-center="opacity: 1" data-600-top="opacity: 0" data-anchor-target="#slide-13 content" >
+       					    		
+       					    		<content>
+       					    			<p>“Faheem is not a terrorist. He has not been found that’s all. We are looking for him. Police is looking for him. We will soon find him. Inshallah.”</p>
+       					    			<img src="http://static.ibnlive.in.com/pix/ibnhome/news18/Kashmir_immersive/Faheem13.png" alt="">
+       					    		</content>
+
+       				    		</div>
+       			        	</div>
+       		        	</div>
+       			    </section>
+
+       				<div style="text-align: center;">
+       					<p>Inputs by: Aakash Hassan</p><br>
+
+       	        <i>(A part of 12-part #KashmirBeyondCliches series)</i><br><br>
+       	<i>Read more stories from <a href="http://www.news18.com/newstopics/kashmir-beyond-cliches.html">#KashmirBeyondCliches</a> series</i>
+       	<br><br>
+
+       				</div>
+       				<div>
+       					<share class="shareCont">
+
+       						<div class="share_box">
+       							<a href="http://www.facebook.com/sharer.php?u=http://www.news18.com/news/immersive/making-of-a-diaper-militant-in-kashmir.html&amp;t=The Making of A 'Diaper Militant'" target="_blank" class="sprite-img hfbicon"></a>
+       							<a href="http://twitter.com/share?text=The Making of A 'Diaper Militant'&amp;url=http://www.news18.com/news/immersive/making-of-a-diaper-militant-in-kashmir.html" target="_blank" class="sprite-img htwicon"></a>
+       							<a href="https://plus.google.com/share?url=http%3A//www.news18.com/news/making-of-a-diaper-militant-in-kashmir.html" class="sprite-img hgpicon"></a>
+       							<!-- <a href="http://www.news18.com/news/immersive/making-of-a-diaper-militant-in-kashmir.html" class="sprite-img waicon"></a> -->
+
+       						</div>
+       					</share>
+       				</div>
+       			</main>
